@@ -1,6 +1,6 @@
 # Network Intrusion Detection Using Machine Learning
 
-**Advanced Artificial Intelligence Final Project · Hunter Smith and John**
+**Advanced Artificial Intelligence Final Project · Hunter Smith and John Wright**
 
 This project classifies network flows as **Benign** or **Suspicious** based on statistics such as flow duration and packet counts. The goal is to help security analysts prioritize flows for review while measuring the trade-off between missed intrusions and false alerts.
 
